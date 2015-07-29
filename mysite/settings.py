@@ -102,5 +102,5 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-STATIC_ROOT = '/home/Kruti/my-first-blog'
+STATIC_ROOT = '/home/Kruti/my-first-blog/static'
 
