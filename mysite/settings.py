@@ -102,4 +102,5 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-STATIC_ROOT = '/krutivora/projects/learnpython/mysite/static'
+STATIC_ROOT = '/home/Kruti/my-first-blog'
+
